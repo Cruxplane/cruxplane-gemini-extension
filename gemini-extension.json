@@ -1,0 +1,14 @@
+{
+  "name": "cruxplane",
+  "version": "1.0.0",
+  "description": "Scaffold, preview, and deploy full-stack apps, APIs, and websites to cloud MicroVMs and managed PostgreSQL.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "cruxplane": {
+      "httpUrl": "https://api.cruxplane.dev/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}
